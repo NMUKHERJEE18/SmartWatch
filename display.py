@@ -2,7 +2,7 @@ from machine import Pin,I2C,SPI,PWM,Timer,ADC
 import framebuf
 import time
 Vbat_Pin = 29
-
+#This file was made by waveshare, with some edits made by me.
 #Pin definition  引脚定义
 I2C_SDA = 6
 I2C_SDL = 7
